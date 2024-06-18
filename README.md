@@ -14,7 +14,7 @@
 
 - 🎨 In my free time, I love going to the gym, playing basketball, tennis, or badminton. Staying active keeps me energized and motivated.
 
-- ⚡ Fun fact **I know 3 different languages fluently.**
+- ⚡ Fun fact **I am fluent in three different languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
