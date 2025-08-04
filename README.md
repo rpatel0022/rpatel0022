@@ -1,5 +1,5 @@
 [![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)](https://rpatel0022.github.io/Portfolio/)
-<h1 align="center">👋 Hi there! I'm Rushi Patel, an enthusiastic developer exploring the vast world of technology.</h1>
+<h1 align="center">👋 Hi there! I'm Rushi Patel, an enthusiastic developer exploring the ever lasting world of technology.</h1>
 
 <h3 align="center">A passionate developer</h3>
   <img src="https://media.licdn.com/dms/image/D5612AQEZGEGzHnj62g/article-cover_image-shrink_720_1280/0/1713190626806?e=1724284800&v=beta&t=27XOr_XUF0eebLPUwX-0TVhcakCHb4iJdGoJ90z-RSA" alt="Passionate Developer" width="400">
